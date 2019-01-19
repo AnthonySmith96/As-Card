@@ -146,7 +146,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(86, 153, 230, 0.9);
+  background-color: rgb(86, 153, 230);
 }
 
 .cta .cta-inner {
