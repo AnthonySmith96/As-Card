@@ -6,8 +6,8 @@
 
 body {
   font-family: 'Lora';
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(15, 46, 47, 0.65))), url("../img/bg.png");
-  background: linear-gradient(rgba(15, 46, 47, 0.65)), url("../img/bg.png");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(15, 46, 47, 0.65))), url("../img/bg3.jpg");
+  background: linear-gradient(rgba(15, 46, 47, 0.65)), url("../img/bg3.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
