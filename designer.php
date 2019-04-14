@@ -202,6 +202,10 @@
 			  		<img src="img/cap/highlights.png" title="Hightlights" data-parameters='{"x": 309, "y": 300}' />
 			  		<img src="img/cap/shadows.png" title="Shadows" data-parameters='{"x": 306, "y": 299}' />
 				</div>
+				<div class="fpd-product" title="AsCard" data-thumbnail="img/cards/preview.jpg">
+	    			<img src="img/cards/horizontal/ashor.png" title="AsCard Horizontal" data-parameters='{"x": 318, "y": 311, "colors": "#ededed", "price": 5}' />
+			  		<img src="img/cards/vertical/asver.png" title="AsCard Vertical" data-parameters='{"x": 309, "y": 300}' />
+				</div>
 		  		<div class="fpd-design">
 		  			<div class="fpd-category" title="Swirls">
 			  			<img src="img/designs/swirl.png" title="Swirl" data-parameters='{"zChangeable": true, "x": 215, "y": 200, "colors": "#000000", "removable": true, "draggable": true, "rotatable": true, "resizable": true, "price": 10, "boundingBox": "Base", "autoCenter": true}' />
