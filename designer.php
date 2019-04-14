@@ -144,7 +144,7 @@
 					};
 				}
 				else {
-					alert('FileReader API is not supported in your browser, please use Firefox, Safari, Chrome or IE10!')
+					alert('FileReader API no es soportada por tu navegador, por favor utiliza Firefox Quantum, Safari, Google Chrome/Chromium ó IE10!')
 				}
 			};
 	    });
@@ -153,7 +153,7 @@
 
     <body>
     	<div id="main-container" class="container">
-          	<h3 id="clothing">Clothing Designer</h3>
+          	<h3 id="clothing">AsDesigner</h3>
           	<div id="clothing-designer" class="fpd-shadow-1">
           		<div class="fpd-product" title="Shirt Front" data-thumbnail="img/yellow_shirt/front/preview.png">
 	    			<img src="img/yellow_shirt/front/base.png" title="Base" data-parameters='{"x": 325, "y": 329, "colors": "#d59211", "price": 20}' />
@@ -221,29 +221,41 @@
 				  		<img src="img/designs/swirl2.png" title="Swirl 2" data-parameters='{"x": 215, "y": 200, "colors": "#000000", "removable": true, "draggable": true, "rotatable": true, "resizable": true, "price": 5, "boundingBox": "Base", "autoCenter": true}' />
 				  		<img src="img/designs/swirl3.png" title="Swirl 3" data-parameters='{"x": 215, "y": 200, "colors": "#000000", "removable": true, "draggable": true, "rotatable": true, "resizable": true}' />
 				  	</div>
+		  			<div class="fpd-category" title="Characters">
+			  			<img src="img/designs/characters/jake.png" title="Jake The Dog" data-parameters='{"x": 210, "y": 200, "colors": "#000000", "removable": true, "draggable": true, "rotatable": true, "resizable": true, "scale": 0.25, "price": 7, "boundingBox": "Base", "autoCenter": true}' />
+			  			<img src="img/designs/characters/finn.png" title="Finn The Human" data-parameters='{"x": 210, "y": 200, "colors": "#000000", "removable": true, "draggable": true, "rotatable": true, "resizable": true, "scale": 0.25, "price": 7, "boundingBox": "Base", "autoCenter": true}' />
+			  			<img src="img/designs/characters/rick.png" title="Rick Sánchez" data-parameters='{"x": 210, "y": 200, "colors": "#000000", "removable": true, "draggable": true, "rotatable": true, "resizable": true, "scale": 0.25, "price": 7, "boundingBox": "Base", "autoCenter": true}' />
+			  			<img src="img/designs/characters/morty.png" title="Morty Smith" data-parameters='{"x": 210, "y": 200, "colors": "#000000", "removable": true, "draggable": true, "rotatable": true, "resizable": true, "scale": 0.25, "price": 7, "boundingBox": "Base", "autoCenter": true}' />
+				  	</div>
+					<div class="fpd-category" title="Logos">
+			  			<img src="img/designs/logos/af.png" title="Adobe After Effects" data-parameters='{"x": 210, "y": 200, "colors": "#000000", "removable": true, "draggable": true, "rotatable": true, "resizable": true, "scale": 0.25, "price": 7, "boundingBox": "Base", "autoCenter": true}' />
+			  			<img src="img/designs/logos/ab.png" title="Adobe Bridge" data-parameters='{"x": 210, "y": 200, "colors": "#000000", "removable": true, "draggable": true, "rotatable": true, "resizable": true, "scale": 0.25, "price": 7, "boundingBox": "Base", "autoCenter": true}' />
+			  			<img src="img/designs/logos/acc.png" title="Adobe Creative Cloud" data-parameters='{"x": 210, "y": 200, "colors": "#000000", "removable": true, "draggable": true, "rotatable": true, "resizable": true, "scale": 0.25, "price": 7, "boundingBox": "Base", "autoCenter": true}' />
+			  			<img src="img/designs/logos/dreamweaver.png" title="Adobe DreamWeaver" data-parameters='{"x": 210, "y": 200, "colors": "#000000", "removable": true, "draggable": true, "rotatable": true, "resizable": true, "scale": 0.25, "price": 7, "boundingBox": "Base", "autoCenter": true}' />
+				  	</div>
 		  		</div>
 		  	</div>
 		  	<br />
 		  	<div class="row">
 			  	<div class="api-buttons col-md-7">
-				  	<a href="#" id="print-button" class="btn btn-primary">Print</a>
-				  	<a href="#" id="image-button" class="btn btn-primary">Create Image</a>
-				  	<a href="#" id="pdf-button" class="btn btn-primary">Create PDF</a>
-				  	<a href="#" id="checkout-button" class="btn btn-success">Checkout</a>
-				  	<a href="#" id="recreation-button" class="btn btn-success">Recreate product</a>
+				  	<a href="#" id="print-button" class="btn btn-primary">Imprimir</a>
+				  	<a href="#" id="image-button" class="btn btn-primary">Crear imágen</a>
+				  	<a href="#" id="pdf-button" class="btn btn-primary">Crear PDF</a>
+				  	<a href="#" id="checkout-button" class="btn btn-success">Comprar</a>
+				  	<a href="#" id="recreation-button" class="btn btn-success">Recrear producto</a>
 			  	</div>
 			  	<div class="col-md-2">
-			  		<a href="#" id="upload-button" class="btn btn-warning">Upload own design</a>
-				  	<label class="checkbox inline"><input type="checkbox" id="colorizable" /> Colorizable?</label>
+			  		<a href="#" id="upload-button" class="btn btn-warning">¡Sube tu propio diseño!</a>
+				  	<label class="checkbox inline"><input type="checkbox" id="colorizable" />¿Coloreable?</label>
 			  	</div>
 			  	<div class="col-md-3">
 				  	<span class="price badge badge-inverse"><span id="thsirt-price"></span> $</span>
 			  	</div>
 		  	</div>
 
-		  	<h4>Only working on a webserver:</h4>
-		  	<button class="btn btn-info" id="save-image-php">Save image with php</button>
-		  	<button class="btn btn-info" id="send-image-mail-php">Send image to mail</button>
+		  	<h4>Para cuando tengamos backend:</h4>
+		  	<button class="btn btn-info" id="save-image-php">Guardar imágen con PHP</button>
+		  	<button class="btn btn-info" id="send-image-mail-php">Envíanos tu diseño por mail</button>
 
 		  	<!-- The form recreation -->
 		  	<input type="file" id="design-upload" style="display: none;" />
