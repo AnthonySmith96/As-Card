@@ -155,6 +155,11 @@
     	<div id="main-container" class="container">
           	<h3 id="clothing">AsDesigner</h3>
           	<div id="clothing-designer" class="fpd-shadow-1">
+
+
+
+
+
           		<div class="fpd-product" title="Shirt Front" data-thumbnail="img/yellow_shirt/front/preview.png">
 	    			<img src="img/yellow_shirt/front/base.png" title="Base" data-parameters='{"x": 325, "y": 329, "colors": "#d59211", "price": 20}' />
 			  		<img src="img/yellow_shirt/front/shadows.png" title="Shadow" data-parameters='{"x": 325, "y": 329}' />
@@ -166,10 +171,18 @@
 				  		<img src="img/yellow_shirt/back/shadows.png" title="Shadow" data-parameters='{"x": 318, "y": 329}' />
 					</div>
 				</div>
-				<div class="fpd-product" title="AsCard" data-thumbnail="img/cards/preview.jpg">
+				<div class="fpd-product" title="AsCard Horizontal" data-thumbnail="img/cards/preview.jpg">
 	    			<img src="img/cards/horizontal/ashor.png" title="AsCard Horizontal" data-parameters='{"x": 318, "y": 311, "colors": "#ededed", "price": 5}' />
 			  		<img src="img/cards/vertical/asver.png" title="AsCard Vertical" data-parameters='{"x": 309, "y": 300}' />
 				</div>
+
+				<div class="fpd-product" title="AsCard" data-thumbnail="img/cards/preview.jpg">
+	    			<img src="img/cards/horizontal/ashor.png" title="AsCard Horizontal" data-parameters='{"x": 318, "y": 311, "colors": "#ededed", "price": 5}' />
+			  		<img src="img/cards/vertical/asver.png" title="AsCard Vertical" data-parameters='{"x": 309, "y": 300}' />
+				</div
+
+
+				<!-- DESIGNS -->
 		  		<div class="fpd-design">
 		  			<div class="fpd-category" title="Characters">
 			  			<img src="img/designs/characters/jake.png" title="Jake The Dog" data-parameters='{"x": 210, "y": 200, "colors": "#000000", "removable": true, "draggable": true, "rotatable": true, "resizable": true, "scale": 0.25, "price": 7, "boundingBox": "Base", "autoCenter": true}' />
