@@ -1,30 +1,30 @@
 <?php
 
 //main bar
-$layers_btn = isset($_POST['layersButton']) ? $_POST['layersButton'] : 'Manage Layers';
-$adds_btn = isset($_POST['addsButton']) ? $_POST['addsButton'] : 'Add Something';
-$products_btn = isset($_POST['productsButton']) ? $_POST['productsButton'] : 'Change Products';
+$layers_btn = isset($_POST['layersButton']) ? $_POST['layersButton'] : 'Organizar Capas';
+$adds_btn = isset($_POST['addsButton']) ? $_POST['addsButton'] : 'Agregar Elementos';
+$products_btn = isset($_POST['productsButton']) ? $_POST['productsButton'] : 'Cambiar Producto';
 $more_btn = isset($_POST['moreButton']) ? $_POST['moreButton'] : 'Actions';
-$download_image = isset($_POST['downloadImage']) ? $_POST['downloadImage'] : 'Download Image';
+$download_image = isset($_POST['downloadImage']) ? $_POST['downloadImage'] : 'Descargar Imágen';
 $print = isset($_POST['print']) ? $_POST['print'] : 'Print';
-$pdf = isset($_POST['downLoadPDF']) ? $_POST['downLoadPDF'] : 'Download PDF';
-$save_product = isset($_POST['saveProduct']) ? $_POST['saveProduct'] : 'Save';
-$load_saved_products = isset($_POST['loadProduct']) ? $_POST['loadProduct'] : 'Load';
+$pdf = isset($_POST['downLoadPDF']) ? $_POST['downLoadPDF'] : 'Descargar PDF';
+$save_product = isset($_POST['saveProduct']) ? $_POST['saveProduct'] : 'Guardar';
+$load_saved_products = isset($_POST['loadProduct']) ? $_POST['loadProduct'] : 'Cargar';
 
 //sub bar
-$undo_btn = isset($_POST['undoButton']) ? $_POST['undoButton'] : 'Undo';
-$redo_btn = isset($_POST['redoButton']) ? $_POST['redoButton'] : 'Redo';
-$reset_product_btn = isset($_POST['resetProductButton']) ? $_POST['resetProductButton'] : 'Reset Button';
+$undo_btn = isset($_POST['undoButton']) ? $_POST['undoButton'] : 'Deshacer';
+$redo_btn = isset($_POST['redoButton']) ? $_POST['redoButton'] : 'Rehacer';
+$reset_product_btn = isset($_POST['resetProductButton']) ? $_POST['resetProductButton'] : 'Reiniciar';
 $zoom_btn = isset($_POST['zoomButton']) ? $_POST['zoomButton'] : 'Zoom';
 $pan_btn = isset($_POST['panButton']) ? $_POST['panButton'] : 'Pan';
 
 //adds
-$add_image_btn = isset($_POST['addImageButton']) ? $_POST['addImageButton'] : 'Add your own Image';
-$add_text_btn = isset($_POST['addTextButton']) ? $_POST['addTextButton'] : 'Add your own text';
-$enter_text = isset($_POST['enterText']) ? $_POST['enterText'] : 'Enter your text';
-$add_fb_btn = isset($_POST['addFBButton']) ? $_POST['addFBButton'] : 'Add photo from facebook';
-$add_insta_btn = isset($_POST['addInstaButton']) ? $_POST['addInstaButton'] : 'Add photo from instagram';
-$add_design_btn = isset($_POST['addDesignButton']) ? $_POST['addDesignButton'] : 'Choose from Designs';
+$add_image_btn = isset($_POST['addImageButton']) ? $_POST['addImageButton'] : 'Sube una imágen';
+$add_text_btn = isset($_POST['addTextButton']) ? $_POST['addTextButton'] : 'Agrega un texto';
+$enter_text = isset($_POST['enterText']) ? $_POST['enterText'] : 'Teclea algo...';
+$add_fb_btn = isset($_POST['addFBButton']) ? $_POST['addFBButton'] : 'Añade una foto desde Facebook';
+$add_insta_btn = isset($_POST['addInstaButton']) ? $_POST['addInstaButton'] : 'Añade una foto desde Instagram';
+$add_design_btn = isset($_POST['addDesignButton']) ? $_POST['addDesignButton'] : '¡Elige uno de nuestros stickers!';
 
 //Fill Options
 $fill_options = isset($_POST['fillOptions']) ? $_POST['fillOptions'] : 'Fill Options';
