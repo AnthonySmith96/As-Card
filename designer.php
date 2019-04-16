@@ -166,10 +166,16 @@
 				  		<img src="img/yellow_shirt/back/shadows.png" title="Shadow" data-parameters='{"x": 318, "y": 329}' />
 					</div>
 				</div>
-				<div class="fpd-product" title="AsCard" data-thumbnail="img/cards/preview.jpg">
+				<div class="fpd-product" title="AsCard Horizontal" data-thumbnail="img/horizontal-card/preview.png">
 	    			<img src="img/cards/horizontal/ashor.png" title="AsCard Horizontal" data-parameters='{"x": 318, "y": 311, "colors": "#ededed", "price": 5}' />
 			  		<img src="img/cards/vertical/asver.png" title="AsCard Vertical" data-parameters='{"x": 309, "y": 300}' />
 				</div>
+				<div class="fpd-product" title="AsCard Vertical" data-thumbnail="img/vertical-card/preview.png">
+	    			<img src="img/cards/horizontal/ashor.png" title="AsCard Horizontal" data-parameters='{"x": 318, "y": 311, "colors": "#ededed", "price": 5}' />
+			  		<img src="img/cards/vertical/asver.png" title="AsCard Vertical" data-parameters='{"x": 309, "y": 300}' />
+				</div>
+
+
 		  		<div class="fpd-design">
 
 		  			<div class="fpd-category" title="Characters">
