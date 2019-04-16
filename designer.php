@@ -5,7 +5,7 @@
     <title>¡Diseña tu ASCard</title>
 
     <!-- Style sheets -->
-    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap-material-design.css" />
     <link rel="stylesheet" type="text/css" href="css/main.css">
 
     <!-- Google Webfonts -->
@@ -25,7 +25,7 @@
     <!-- Include js files -->
 	<script src="js/jquery.min.js" type="text/javascript"></script>
 	<script src="js/jquery-ui.min.js" type="text/javascript"></script>
-	<script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="vendor/bootstrap/js/bootstrap-material-design.min.js" type="text/javascript"></script>
 
 	<!-- HTML5 canvas library - required -->
 	<script src="js/fabric.js" type="text/javascript"></script>
@@ -75,7 +75,7 @@
 				image.onload = function() {
 					var doc = new jsPDF();
 					doc.addImage(this.src, 'JPEG', 0, 0, this.width * 0.2, this.height * 0.2);
-					doc.save('Product.pdf');
+					doc.save('AsCard.pdf');
 				}
 				return false;
 			});
@@ -190,24 +190,26 @@
 		  	<br />
 		  	<div class="row">
 			  	<div class="api-buttons col-md-7">
-				  	<a href="#" id="print-button" class="btn btn-primary">Imprimir</a>
-				  	<a href="#" id="image-button" class="btn btn-primary">Crear imágen</a>
-				  	<a href="#" id="pdf-button" class="btn btn-primary">Crear PDF</a>
-				  	<a href="#" id="checkout-button" class="btn btn-success">Comprar</a>
-				  	<a href="#" id="recreation-button" class="btn btn-success">Recrear producto</a>
+				  	<a href="#" id="print-button" class="btn btn-raised btn-secondary">Imprimir</a>
+				  	<a href="#" id="image-button" class="btn btn-raised btn-info">Crear imágen</a>
+				  	<a href="#" id="pdf-button" class="btn btn-raised btn-danger">Crear PDF</a>
+				  	<a href="#" id="checkout-button" class="btn btn-raised btn-success">Comprar</a>
+				  	<a href="#" id="recreation-button" class="btn btn-raised btn-warning">Recrear producto</a>
 			  	</div>
 			  	<div class="col-md-2">
-			  		<a href="#" id="upload-button" class="btn btn-warning">¡Sube tu propio diseño!</a>
+			  		<a href="#" id="upload-button" class="btn btn-raised btn-warning">¡Sube tu propio diseño!</a>
 				  	<label class="checkbox inline"><input type="checkbox" id="colorizable" />¿Coloreable?</label>
 			  	</div>
-			  	<div class="col-md-3">
-				  	<span class="price badge badge-inverse"><span id="thsirt-price"></span> $</span>
+			  	<div class="col-md-4">
+					  <br>
+					  <span class="price badge badge-pill badge-success"><span id="thsirt-price"></span> $ en total.</span>
+					  <br>
 			  	</div>
 		  	</div>
 
 		  	<h4>Para cuando tengamos backend:</h4>
-		  	<button class="btn btn-info" id="save-image-php">Guardar imágen con PHP</button>
-		  	<button class="btn btn-info" id="send-image-mail-php">Envíanos tu diseño por mail</button>
+		  	<button class="btn btn-raised btn-secondary" id="save-image-php">Guardar imágen con PHP</button>
+		  	<button class="btn btn-raised btn-info" id="send-image-mail-php">Envíanos tu diseño por mail</button>
 
 		  	<!-- The form recreation -->
 		  	<input type="file" id="design-upload" style="display: none;" />
