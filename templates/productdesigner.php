@@ -27,49 +27,49 @@ $add_insta_btn = isset($_POST['addInstaButton']) ? $_POST['addInstaButton'] : 'A
 $add_design_btn = isset($_POST['addDesignButton']) ? $_POST['addDesignButton'] : '¡Elige uno de nuestros stickers!';
 
 //Fill Options
-$fill_options = isset($_POST['fillOptions']) ? $_POST['fillOptions'] : 'Fill Options';
+$fill_options = isset($_POST['fillOptions']) ? $_POST['fillOptions'] : 'Opciones de relleno';
 $color = isset($_POST['color']) ? $_POST['color'] : 'Color';
-$patterns = isset($_POST['patterns']) ? $_POST['patterns'] : 'Patterns';
-$opacity = isset($_POST['opacity']) ? $_POST['opacity'] : 'Opacity';
+$patterns = isset($_POST['patterns']) ? $_POST['patterns'] : 'Patrones';
+$opacity = isset($_POST['opacity']) ? $_POST['opacity'] : 'Opacidad';
 //Filter Options
-$filter = isset($_POST['filter']) ? $_POST['filter'] : 'Filter';
+$filter = isset($_POST['filter']) ? $_POST['filter'] : 'Filtro';
 //Text Options
-$text_options = isset($_POST['textOptions']) ? $_POST['textOptions'] : 'Text Options';
-$change_text = isset($_POST['changeText']) ? $_POST['changeText'] : 'Change Text';
-$typeface = isset($_POST['typeface']) ? $_POST['typeface'] : 'Typeface';
-$line_height = isset($_POST['lineHeight']) ? $_POST['lineHeight'] : 'Line Height';
-$text_align = isset($_POST['textAlign']) ? $_POST['textAlign'] : 'Alignment';
-$text_align_left = isset($_POST['textAlignLeft']) ? $_POST['textAlignLeft'] : 'Align Left';
-$text_align_center = isset($_POST['textAlignCenter']) ? $_POST['textAlignCenter'] : 'Align Center';
-$text_align_right = isset($_POST['textAlignRight']) ? $_POST['textAlignRight'] : 'Align Right';
-$text_styling = isset($_POST['textStyling']) ? $_POST['textStyling'] : 'Styling';
-$bold = isset($_POST['bold']) ? $_POST['bold'] : 'Bold';
-$italic = isset($_POST['italic']) ? $_POST['italic'] : 'Italic';
-$underline = isset($_POST['underline']) ? $_POST['underline'] : 'Underline';
+$text_options = isset($_POST['textOptions']) ? $_POST['textOptions'] : 'Opciones de texto';
+$change_text = isset($_POST['changeText']) ? $_POST['changeText'] : 'Modificar Texto';
+$typeface = isset($_POST['typeface']) ? $_POST['typeface'] : 'Fuente';
+$line_height = isset($_POST['lineHeight']) ? $_POST['lineHeight'] : 'Altura de línea';
+$text_align = isset($_POST['textAlign']) ? $_POST['textAlign'] : 'Alineamiento';
+$text_align_left = isset($_POST['textAlignLeft']) ? $_POST['textAlignLeft'] : 'Alin. Izquierda';
+$text_align_center = isset($_POST['textAlignCenter']) ? $_POST['textAlignCenter'] : 'Alin. Centro';
+$text_align_right = isset($_POST['textAlignRight']) ? $_POST['textAlignRight'] : 'Alin. Derecha';
+$text_styling = isset($_POST['textStyling']) ? $_POST['textStyling'] : 'Estilado';
+$bold = isset($_POST['bold']) ? $_POST['bold'] : 'Negrita';
+$italic = isset($_POST['italic']) ? $_POST['italic'] : 'Cursiva';
+$underline = isset($_POST['underline']) ? $_POST['underline'] : 'Subrayado';
 //Curved Text Options
-$curved_text = isset($_POST['curvedText']) ? $_POST['curvedText'] : 'Curved Text';
-$curved_text_spacing = isset($_POST['curvedTextSpacing']) ? $_POST['curvedTextSpacing'] : 'Spacing';
-$curved_text_radius = isset($_POST['curvedTextRadius']) ? $_POST['curvedTextRadius'] : 'Radius';
-$curved_text_reverse = isset($_POST['curvedTextReverse']) ? $_POST['curvedTextReverse'] : 'Reverse';
+$curved_text = isset($_POST['curvedText']) ? $_POST['curvedText'] : 'Texto en curva';
+$curved_text_spacing = isset($_POST['curvedTextSpacing']) ? $_POST['curvedTextSpacing'] : 'Espaciado';
+$curved_text_radius = isset($_POST['curvedTextRadius']) ? $_POST['curvedTextRadius'] : 'Radio';
+$curved_text_reverse = isset($_POST['curvedTextReverse']) ? $_POST['curvedTextReverse'] : 'Reversa';
 //Transform Options
-$transform = isset($_POST['transform']) ? $_POST['transform'] : 'Transform';
-$angle = isset($_POST['angle']) ? $_POST['angle'] : 'Angle';
-$scale = isset($_POST['scale']) ? $_POST['scale'] : 'Scale';
+$transform = isset($_POST['transform']) ? $_POST['transform'] : 'Transformar';
+$angle = isset($_POST['angle']) ? $_POST['angle'] : 'Ángulo';
+$scale = isset($_POST['scale']) ? $_POST['scale'] : 'Escala';
 //Helper Buttons
-$move_up = isset($_POST['moveUp']) ? $_POST['moveUp'] : 'Move Up';
-$move_down = isset($_POST['moveDown']) ? $_POST['moveDown'] : 'Move Down';
-$center_h = isset($_POST['centerH']) ? $_POST['centerH'] : 'Center Horizontal';
-$center_v = isset($_POST['centerV']) ? $_POST['centerV'] : 'Center Vertical';
-$flip_horizontal = isset($_POST['flipHorizontal']) ? $_POST['flipHorizontal'] : 'Flip Horizontal';
-$flip_vertical = isset($_POST['flipVertical']) ? $_POST['flipVertical'] : 'Flip Vertical';
-$reset_element = isset($_POST['resetElement']) ? $_POST['resetElement'] : 'Reset To His Origin';
+$move_up = isset($_POST['moveUp']) ? $_POST['moveUp'] : 'Mover hacia arriba';
+$move_down = isset($_POST['moveDown']) ? $_POST['moveDown'] : 'Mover hacia abajo';
+$center_h = isset($_POST['centerH']) ? $_POST['centerH'] : 'Centrar en horizontal';
+$center_v = isset($_POST['centerV']) ? $_POST['centerV'] : 'Centrar en vertical';
+$flip_horizontal = isset($_POST['flipHorizontal']) ? $_POST['flipHorizontal'] : 'Girar Horizontal';
+$flip_vertical = isset($_POST['flipVertical']) ? $_POST['flipVertical'] : 'Girar Vertical';
+$reset_element = isset($_POST['resetElement']) ? $_POST['resetElement'] : 'Reiniciar';
 
 //facebook
-$fb_select_album = isset($_POST['fbSelectAlbum']) ? $_POST['fbSelectAlbum'] : 'Select an album';
+$fb_select_album = isset($_POST['fbSelectAlbum']) ? $_POST['fbSelectAlbum'] : 'Seleccionar un álbum';
 
 //instagram
-$insta_feed_button = isset($_POST['instaFeedButton']) ? $_POST['instaFeedButton'] : 'My Feed';
-$insta_recent_images_button = isset($_POST['instaRecentImagesButton']) ? $_POST['instaRecentImagesButton'] : 'My Recent Images';
+$insta_feed_button = isset($_POST['instaFeedButton']) ? $_POST['instaFeedButton'] : 'Mi Feed';
+$insta_recent_images_button = isset($_POST['instaRecentImagesButton']) ? $_POST['instaRecentImagesButton'] : 'Mis Imagenes Recientes';
 
 
 ?>
