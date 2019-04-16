@@ -155,24 +155,19 @@
     	<div id="main-container" class="container">
           	<h3 id="clothing">AsDesigner</h3>
           	<div id="clothing-designer" class="fpd-shadow-1">
-          		<div class="fpd-product" title="Shirt Front" data-thumbnail="img/yellow_shirt/front/preview.png">
-	    			<img src="img/yellow_shirt/front/base.png" title="Base" data-parameters='{"x": 325, "y": 329, "colors": "#d59211", "price": 20}' />
-			  		<img src="img/yellow_shirt/front/shadows.png" title="Shadow" data-parameters='{"x": 325, "y": 329}' />
-			  		<img src="img/yellow_shirt/front/body.png" title="Hightlights" data-parameters='{"x": 322, "y": 137}' />
-			  		<span title="Any Text" data-parameters='{"boundingBox": "Base", "x": 326, "y": 232, "zChangeable": true, "removable": true, "draggable": true, "rotatable": true, "resizable": true, "colors": "#000000"}' >Default Text</span>
-			  		<div class="fpd-product" title="Shirt Back" data-thumbnail="img/yellow_shirt/back/preview.png">
-		    			<img src="img/yellow_shirt/back/base.png" title="Base" data-parameters='{"x": 317, "y": 329, "colors": "Base", "price": 20}' />
-		    			<img src="img/yellow_shirt/back/body.png" title="Hightlights" data-parameters='{"x": 333, "y": 119}' />
-				  		<img src="img/yellow_shirt/back/shadows.png" title="Shadow" data-parameters='{"x": 318, "y": 329}' />
+
+				<div class="fpd-product" title="AsCard Horizontal Frontal" data-thumbnail="img/horizontal-card/preview.png">
+					<img src="img/horizontal-card/front/base.png" title="Base" data-parameters='{"x": 450, "y": 250, "colors": "#ededed", "price": 124.5}' />
+					<div class="fpd-product" title="AsCard Horizontal Back" data-thumbnail="img/horizontal-card/preview.png">
+					<img src="img/horizontal-card/back/base.png" title="Base" data-parameters='{"x": 450, "y": 250, "colors": "#ededed", "price": 124.5}' />
 					</div>
 				</div>
-				<div class="fpd-product" title="AsCard Horizontal" data-thumbnail="img/horizontal-card/preview.png">
-	    			<img src="img/cards/horizontal/ashor.png" title="AsCard Horizontal" data-parameters='{"x": 318, "y": 311, "colors": "#ededed", "price": 5}' />
-			  		<img src="img/cards/vertical/asver.png" title="AsCard Vertical" data-parameters='{"x": 309, "y": 300}' />
-				</div>
+
 				<div class="fpd-product" title="AsCard Vertical" data-thumbnail="img/vertical-card/preview.png">
-	    			<img src="img/cards/horizontal/ashor.png" title="AsCard Horizontal" data-parameters='{"x": 318, "y": 311, "colors": "#ededed", "price": 5}' />
-			  		<img src="img/cards/vertical/asver.png" title="AsCard Vertical" data-parameters='{"x": 309, "y": 300}' />
+					<img src="img/vertical-card/front/base.png" title="Base" data-parameters='{"x": 450, "y": 250, "colors": "#ededed", "price": 124.5}' />
+					<div class="fpd-product" title="AsCard Vertical Back" data-thumbnail="img/vertical-card/preview.png">
+					<img src="img/vertical-card/back/base.png" title="Base" data-parameters='{"x": 450, "y": 250, "colors": "#ededed", "price": 125.5}' />
+					</div>
 				</div>
 
 
