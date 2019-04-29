@@ -47,18 +47,18 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav mx-auto">
             <li class="nav-item active px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="index.html">Inicio
+              <a class="nav-link text-uppercase text-expanded" href="index.php">Inicio
                 <span class="sr-only">(current)</span>
               </a>
             </li>
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="about.html">Acerca de</a>
+              <a class="nav-link text-uppercase text-expanded" href="about.php">Acerca de</a>
             </li>
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="products.html">Paquetes</a>
+              <a class="nav-link text-uppercase text-expanded" href="products.php">Paquetes</a>
             </li>
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="contact.html">Contacto</a>
+              <a class="nav-link text-uppercase text-expanded" href="contact.php">Contacto</a>
             </li>
           </ul>
         </div>

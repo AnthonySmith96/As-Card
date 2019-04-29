@@ -1,7 +1,5 @@
 <html lang="es">
-
   <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -47,18 +45,18 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav mx-auto">
             <li class="nav-item active px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="index.html">Inicio
+              <a class="nav-link text-uppercase text-expanded" href="index.php">Inicio
                 <span class="sr-only">(current)</span>
               </a>
             </li>
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="about.html">Acerca de</a>
+              <a class="nav-link text-uppercase text-expanded" href="about.php">Acerca de</a>
             </li>
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="products.html">Paquetes</a>
+              <a class="nav-link text-uppercase text-expanded" href="products.php">Paquetes</a>
             </li>
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="contact.html">Contacto</a>
+              <a class="nav-link text-uppercase text-expanded" href="contact.php">Contacto</a>
             </li>
           </ul>
         </div>
@@ -141,5 +139,4 @@
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap-material-design.min.js"></script>
   </body>
-
 </html>
