@@ -1,12 +1,12 @@
 <?php
 
 //labels
-$element_label = 'Element Title';
-$position_label = 'Position';
-$scale_label = 'Scale';
-$dimensions_label = 'Dimensions';
-$angle_label = 'Angle';
-$colors_label = 'Color(s)';
+$element_label = 'Título';
+$position_label = 'Posición';
+$scale_label = 'Escala';
+$dimensions_label = 'Dimensiones';
+$angle_label = 'Ángulo';
+$colors_label = 'Color(es)';
 
 ?>
 
