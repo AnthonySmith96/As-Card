@@ -12,7 +12,7 @@
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-    <title>Fancy Product Designer - Recreation</title>
+    <title>Recreation</title>
 
     <!-- Style sheets -->
 	<link rel="stylesheet" type="text/css" href="../css/jquery.fancyProductDesigner-fonts.css" />
