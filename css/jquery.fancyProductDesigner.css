@@ -600,7 +600,7 @@ input[type="range"] {
 /* PRODUCT STAGE */
 
 .fpd-main-container > .fpd-product-stage {
-	background-image: url("../images/fpd/grid.png");
+	background-image: url("../img/fpd/grid.png");
 	background-repeat: repeat;
 	height: 100%;
 }
