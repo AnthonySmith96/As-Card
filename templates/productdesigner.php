@@ -1,7 +1,7 @@
 <?php
 
 //main bar
-$layers_btn = isset($_POST['layersButton']) ? $_POST['layersButton'] : 'Organizar Capas';
+$layers_btn = isset($_POST['layersButton']) ? $_POST['layersButton'] : 'Organizar';
 $adds_btn = isset($_POST['addsButton']) ? $_POST['addsButton'] : 'Agregar Elementos';
 $products_btn = isset($_POST['productsButton']) ? $_POST['productsButton'] : 'Cambiar Producto';
 $more_btn = isset($_POST['moreButton']) ? $_POST['moreButton'] : 'Acciones';
