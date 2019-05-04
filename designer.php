@@ -49,6 +49,7 @@
 		    	},
 	    		customImageParameters: {
 		    		draggable: true,
+                    resizable: true,
 		    		removable: true,
 		    		colors: '#000',
 		    		autoCenter: true,
