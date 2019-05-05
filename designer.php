@@ -49,6 +49,7 @@
 		    	},
 	    		customImageParameters: {
 		    		draggable: true,
+                    resizable: true,
 		    		removable: true,
 		    		colors: '#000',
 		    		autoCenter: true,
@@ -206,8 +207,6 @@
 					  <br>
 			  	</div>
 		  	</div>
-
-		  	<h4>Para cuando tengamos backend:</h4>
 		  	<button class="btn btn-raised btn-secondary" id="save-image-php">Guardar imágen con PHP</button>
 		  	<button class="btn btn-raised btn-info" id="send-image-mail-php">Envíanos tu diseño por mail</button>
 
