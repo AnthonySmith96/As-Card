@@ -35,7 +35,7 @@
     <script type="text/javascript">
 	    jQuery(document).ready(function(){
 
-	    	var yourDesigner = $('#clothing-designer').fancyProductDesigner({
+	    	let yourDesigner = $('#clothing-designer').fancyProductDesigner({
 	    		editorMode: false,
 	    		fonts: ['Arial', 'Fearless', 'Helvetica', 'Times New Roman', 'Verdana', 'Geneva', 'Gorditas'],
 	    		customTextParameters: {
@@ -65,16 +65,16 @@
 
 			//create an image
 			$('#image-button').click(function(){
-				var image = yourDesigner.createImage();
+				let image = yourDesigner.createImage();
 				return false;
 			});
 
 			//create a pdf with jsPDF
 			$('#pdf-button').click(function(){
-				var image = new Image();
+				let image = new Image();
 				image.src = yourDesigner.getProductDataURL('jpeg', '#ffffff');
 				image.onload = function() {
-					var doc = new jsPDF();
+					let doc = new jsPDF();
 					doc.addImage(this.src, 'JPEG', 0, 0, this.width * 0.2, this.height * 0.2);
 					doc.save('AsCard.pdf');
 				}
@@ -83,7 +83,7 @@
 
 			//checkout button with getProduct()
 			$('#checkout-button').click(function(){
-				var product = yourDesigner.getProduct();
+				let product = yourDesigner.getProduct();
 				console.log(product);
 				return false;
 			});
@@ -96,7 +96,7 @@
 
 			//recreate button
 			$('#recreation-button').click(function(){
-				var fabricJSON = JSON.stringify(yourDesigner.getFabricJSON());
+				let fabricJSON = JSON.stringify(yourDesigner.getFabricJSON());
 				$('#recreation-form input:first').val(fabricJSON).parent().submit();
 				return false;
 			});
@@ -120,14 +120,14 @@
 			//upload image
 			document.getElementById('design-upload').onchange = function (e) {
 				if(window.FileReader) {
-					var reader = new FileReader();
+					let reader = new FileReader();
 			    	reader.readAsDataURL(e.target.files[0]);
 			    	reader.onload = function (e) {
 
-			    		var image = new Image;
+			    		let image = new Image;
 			    		image.src = e.target.result;
 			    		image.onload = function() {
-				    		var maxH = 400,
+				    		let maxH = 400,
 			    				maxW = 300,
 			    				imageH = this.height,
 			    				imageW = this.width,
@@ -140,7 +140,7 @@
 								if(imageH > maxH) { scaling = maxH / imageH; }
 							}
 
-				    		yourDesigner.addElement('image', e.target.result, 'my custom design', {colors: $('#colorizable').is(':checked') ? '#000000' : false, zChangeable: true, removable: true, draggable: true, resizable: true, rotatable: true, autoCenter: true, boundingBox: "Base", scale: scaling});
+				    		yourDesigner.addElement('image', e.target.result, 'PersonalDesign', {colors: $('#colorizable').is(':checked') ? '#000000' : false, zChangeable: true, removable: true, draggable: true, resizable: true, rotatable: true, autoCenter: true, boundingBox: "Base", scale: scaling});
 			    		};
 					};
 				}
