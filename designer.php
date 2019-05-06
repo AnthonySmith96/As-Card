@@ -2,7 +2,7 @@
 <html>
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>¡Diseña tu ASCard</title>
+    <title>¡Diseña tu AS-Card!</title>
 
     <!-- Style sheets -->
     <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap-material-design.css" />
@@ -154,7 +154,7 @@
 
     <body>
     	<div id="main-container" class="container">
-          	<h3 id="clothing">AsDesigner</h3>
+          	<h3 id="clothing">As-Designer</h3>
           	<div id="clothing-designer" class="fpd-shadow-1">
 
 				<div class="fpd-product" title="AsCard Horizontal Frontal" data-thumbnail="img/horizontal-card/preview.png">
