@@ -195,17 +195,12 @@
 				  	<a href="#" id="image-button" class="btn btn-raised btn-info">Crear imágen</a>
 				  	<a href="#" id="pdf-button" class="btn btn-raised btn-danger">Crear PDF</a>
 				  	<a href="#" id="checkout-button" class="btn btn-raised btn-success">Comprar</a>
-				  	<a href="#" id="recreation-button" class="btn btn-raised btn-warning">Recrear producto</a>
 			  	</div>
 			  	<div class="col-md-2">
 			  		<a href="#" id="upload-button" class="btn btn-raised btn-warning">¡Sube tu propio diseño!</a>
 				  	<label class="checkbox inline"><input type="checkbox" id="colorizable" />¿Coloreable?</label>
 			  	</div>
-			  	<div class="col-md-4">
-					  <br>
-					  <span class="price badge badge-pill badge-success"><span id="thsirt-price"></span> $ en total.</span>
-					  <br>
-			  	</div>
+
 		  	</div>
 		  	<button class="btn btn-raised btn-secondary" id="save-image-php">Guardar imágen con PHP</button>
 		  	<button class="btn btn-raised btn-info" id="send-image-mail-php">Envíanos tu diseño por mail</button>
