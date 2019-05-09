@@ -127,7 +127,7 @@
 			    		let image = new Image;
 			    		image.src = e.target.result;
 			    		image.onload = function() {
-				    		let maxH = 400,
+				    		let maxH = 300,
 			    				maxW = 300,
 			    				imageH = this.height,
 			    				imageW = this.width,
