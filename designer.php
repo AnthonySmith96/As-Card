@@ -198,7 +198,7 @@
 			  	</div>
 			  	<div class="col-md-2">
 			  		<a href="#" id="upload-button" class="btn btn-raised btn-warning">¡Sube tu propio diseño!</a>
-				  	<label class="checkbox inline"><input type="checkbox" id="colorizable" />¿Coloreable?</label>
+				  	<label class="checkbox inline"><input type="checkbox" id="colorizable" />Colorear selección</label>
 			  	</div>
 
 		  	</div>
