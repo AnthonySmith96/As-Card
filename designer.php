@@ -30,7 +30,7 @@
 	<!-- HTML5 canvas library - required -->
 	<script src="js/fabric.js" type="text/javascript"></script>
 	<!-- The plugin itself - required -->
-    <script src="js/jquery.fancyProductDesigner.min.js" type="text/javascript"></script>
+    <script src="js/jquery.fancyProductDesigner.js" type="text/javascript"></script>
 
     <script type="text/javascript">
 	    jQuery(document).ready(function(){
@@ -192,25 +192,18 @@
 		  	<div class="row">
 			  	<div class="api-buttons col-md-7">
 				  	<a href="#" id="print-button" class="btn btn-raised btn-secondary">Imprimir</a>
-				  	<a href="#" id="image-button" class="btn btn-raised btn-info">Crear imágen</a>
-				  	<a href="#" id="pdf-button" class="btn btn-raised btn-danger">Crear PDF</a>
+				  	<a href="#" id="image-button" class="btn btn-raised btn-info">Descargar imágen</a>
+				  	<a href="#" id="pdf-button" class="btn btn-raised btn-danger">Descargar PDF</a>
 				  	<a href="#" id="checkout-button" class="btn btn-raised btn-success">Comprar</a>
 			  	</div>
 			  	<div class="col-md-2">
 			  		<a href="#" id="upload-button" class="btn btn-raised btn-warning">¡Sube tu propio diseño!</a>
-				  	<label class="checkbox inline"><input type="checkbox" id="colorizable" />¿Coloreable?</label>
+				  	<label class="checkbox inline"><input type="checkbox" id="colorizable" />Colorear selección</label>
 			  	</div>
 
 		  	</div>
 		  	<button class="btn btn-raised btn-secondary" id="save-image-php">Guardar imágen con PHP</button>
 		  	<button class="btn btn-raised btn-info" id="send-image-mail-php">Envíanos tu diseño por mail</button>
-
-		  	<!-- The form recreation -->
-		  	<input type="file" id="design-upload" style="display: none;" />
-			<form action="php/recreation.php" id="recreation-form" method="post">
-				<input type="hidden" name="recreation_product" value="" />
-			</form>
-
     	</div>
     </body>
 </html>

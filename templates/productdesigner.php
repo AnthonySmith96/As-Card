@@ -2,7 +2,7 @@
 
 //main bar
 $layers_btn = isset($_POST['layersButton']) ? $_POST['layersButton'] : 'Organizar';
-$adds_btn = isset($_POST['addsButton']) ? $_POST['addsButton'] : 'Agregar Elementos';
+$adds_btn = isset($_POST['addsButton']) ? $_POST['addsButton'] : 'Añadir Elementos';
 $products_btn = isset($_POST['productsButton']) ? $_POST['productsButton'] : 'Cambiar Producto';
 $more_btn = isset($_POST['moreButton']) ? $_POST['moreButton'] : 'Acciones';
 $download_image = isset($_POST['downloadImage']) ? $_POST['downloadImage'] : 'Descargar Imágen';
@@ -80,7 +80,7 @@ $insta_recent_images_button = isset($_POST['instaRecentImagesButton']) ? $_POST[
 	<!-- Left -->
 	<div class="fpd-left">
 		<div class="fpd-btn fpd-primary-text-color" data-context="layers">
-			<i class="fpd-icon-layers"></i><span><?php echo $layers_btn; ?></span>
+			<i class="fpd-icon-layers"></i><span> <?php echo $layers_btn; ?></span>
 		</div>
 		<div class="fpd-btn fpd-primary-text-color" data-context="adds">
 			<i class="fpd-icon-add"></i><span><?php echo $adds_btn; ?></span>
