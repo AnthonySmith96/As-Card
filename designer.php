@@ -204,13 +204,6 @@
 		  	</div>
 		  	<button class="btn btn-raised btn-secondary" id="save-image-php">Guardar imágen con PHP</button>
 		  	<button class="btn btn-raised btn-info" id="send-image-mail-php">Envíanos tu diseño por mail</button>
-
-		  	<!-- The form recreation -->
-		  	<input type="file" id="design-upload" style="display: none;" />
-			<form action="php/recreation.php" id="recreation-form" method="post">
-				<input type="hidden" name="recreation_product" value="" />
-			</form>
-
     	</div>
     </body>
 </html>
