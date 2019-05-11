@@ -30,7 +30,7 @@
 	<!-- HTML5 canvas library - required -->
 	<script src="js/fabric.js" type="text/javascript"></script>
 	<!-- The plugin itself - required -->
-    <script src="js/jquery.fancyProductDesigner.min.js" type="text/javascript"></script>
+    <script src="js/jquery.fancyProductDesigner.js" type="text/javascript"></script>
 
     <script type="text/javascript">
 	    jQuery(document).ready(function(){
