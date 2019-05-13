@@ -10,6 +10,14 @@
 
     <!-- Google Webfonts -->
     <link href='http://fonts.googleapis.com/css?family=Gorditas' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+
+
 
 	<!-- jQuery UI - required -->
 	<link href="css/jquery-ui.css" rel="stylesheet" />
@@ -37,7 +45,7 @@
 
 	    	let yourDesigner = $('#clothing-designer').fancyProductDesigner({
 	    		editorMode: false,
-	    		fonts: ['Arial', 'Fearless', 'Helvetica', 'Times New Roman', 'Verdana', 'Geneva', 'Gorditas'],
+	    		fonts: ['Arial', 'Fearless', 'Helvetica', 'Times New Roman', 'Verdana', 'Geneva', 'Gorditas', 'Roboto', 'Montserrat', 'Ubuntu', 'Fira Sans', 'Inconsolata', 'Orbitron'],
 	    		customTextParameters: {
 		    		colors: false,
 		    		removable: true,

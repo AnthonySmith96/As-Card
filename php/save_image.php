@@ -12,7 +12,7 @@ $base64_str = substr($_POST['base64_image'], strpos($_POST['base64_image'], ",")
 //decode base64 string
 $decoded = base64_decode($base64_str);
 
-$png_url = "product-".strtotime('now').".png";
+$png_url = "AsCard-".strtotime('now').".png";
 //create png from decoded base 64 string and save the image in the parent folder
 $result = file_put_contents($png_url, $decoded);
 
