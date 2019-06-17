@@ -108,7 +108,7 @@
                 <div class="container">
                   <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tu mismo!</a>
                   <a class="btn btn-info btn-raised"
-                    href="https://docs.google.com/forms/d/e/1FAIpQLSes8vNIK9z691BPXL-KY0liXRGdUmrFY-uWNWDGKgZqf_sp4A/viewform">¡Elige
+                    href="Elegirdiseño.html">¡Elige
                     un diseño!</a>
                   <br>
                   o puedes...
@@ -169,7 +169,7 @@
                 <div class="container">
                   <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tu mismo!</a>
                   <a class="btn btn-info btn-raised"
-                    href="https://docs.google.com/forms/d/e/1FAIpQLSes8vNIK9z691BPXL-KY0liXRGdUmrFY-uWNWDGKgZqf_sp4A/viewform">¡Elige
+                    href="Elegirdiseño.html">¡Elige
                     un diseño!</a>
                   <br>
                   o puedes...
@@ -231,7 +231,7 @@
                 <div class="container">
                   <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tu mismo!</a>
                   <a class="btn btn-info btn-raised"
-                    href="https://docs.google.com/forms/d/e/1FAIpQLSes8vNIK9z691BPXL-KY0liXRGdUmrFY-uWNWDGKgZqf_sp4A/viewform">¡Elige
+                    href="Elegirdiseño.html">¡Elige
                     un diseño!</a>
                   <br>
                   o puedes...
@@ -272,7 +272,7 @@
                   </p>
                   <div class="container">
                     <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tu mismo!</a>
-                    <a class="btn btn-info btn-raised" href="about.html">¡Elige un diseño!</a>
+                    <a class="btn btn-info btn-raised" href="Elegirdiseño.html">¡Elige un diseño!</a>
                   </div>
                 </h3>
               </p>
