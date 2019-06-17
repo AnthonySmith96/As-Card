@@ -2,7 +2,7 @@
 <html>
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>¡Diseña tu AS-Card!</title>
+    <title>¡Diseña tu As-Card!</title>
 
     <!-- Style sheets -->
     <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap-material-design.css" />
@@ -167,14 +167,14 @@
 
 				<div class="fpd-product" title="AsCard Horizontal Frontal" data-thumbnail="img/horizontal-card/preview.png">
 					<img src="img/horizontal-card/front/base.png" title="Base" data-parameters='{"x": 450, "y": 250, "colors": "#ededed", "price": 124.5}' />
-					<div class="fpd-product" title="AsCard Horizontal Back" data-thumbnail="img/horizontal-card/preview.png">
+					<div class="fpd-product" title="AsCard Horizontal Trasera" data-thumbnail="img/horizontal-card/preview.png">
 					<img src="img/horizontal-card/back/base.png" title="Base" data-parameters='{"x": 450, "y": 250, "colors": "#ededed", "price": 124.5}' />
 					</div>
 				</div>
 
 				<div class="fpd-product" title="AsCard Vertical" data-thumbnail="img/vertical-card/preview.png">
 					<img src="img/vertical-card/front/base.png" title="Base" data-parameters='{"x": 450, "y": 250, "colors": "#ededed", "price": 124.5}' />
-					<div class="fpd-product" title="AsCard Vertical Back" data-thumbnail="img/vertical-card/preview.png">
+					<div class="fpd-product" title="AsCard Vertical Trasera" data-thumbnail="img/vertical-card/preview.png">
 					<img src="img/vertical-card/back/base.png" title="Base" data-parameters='{"x": 450, "y": 250, "colors": "#ededed", "price": 125.5}' />
 					</div>
 				</div>

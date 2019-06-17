@@ -106,7 +106,7 @@
                      name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
                      <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1"> -->
                 <div class="container">
-                  <a class="btn btn-primary btn-raised" href="designer.php">¡Diséñala tu mismo!</a>
+                  <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tu mismo!</a>
                   <a class="btn btn-info btn-raised"
                     href="https://docs.google.com/forms/d/e/1FAIpQLSes8vNIK9z691BPXL-KY0liXRGdUmrFY-uWNWDGKgZqf_sp4A/viewform">¡Elige
                     un diseño!</a>
@@ -167,7 +167,7 @@
                   </tr>
                 </table>
                 <div class="container">
-                  <a class="btn btn-primary btn-raised" href="designer.php">¡Diséñala tu mismo!</a>
+                  <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tu mismo!</a>
                   <a class="btn btn-info btn-raised"
                     href="https://docs.google.com/forms/d/e/1FAIpQLSes8vNIK9z691BPXL-KY0liXRGdUmrFY-uWNWDGKgZqf_sp4A/viewform">¡Elige
                     un diseño!</a>
@@ -229,7 +229,7 @@
                      name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
                      <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1"> -->
                 <div class="container">
-                  <a class="btn btn-primary btn-raised" href="designer.php">¡Diséñala tu mismo!</a>
+                  <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tu mismo!</a>
                   <a class="btn btn-info btn-raised"
                     href="https://docs.google.com/forms/d/e/1FAIpQLSes8vNIK9z691BPXL-KY0liXRGdUmrFY-uWNWDGKgZqf_sp4A/viewform">¡Elige
                     un diseño!</a>
@@ -271,7 +271,7 @@
                     <h6>*Envío a todo el país $100</h6>
                   </p>
                   <div class="container">
-                    <a class="btn btn-primary btn-raised" href="designer.php">¡Diséñala tu mismo!</a>
+                    <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tu mismo!</a>
                     <a class="btn btn-info btn-raised" href="about.html">¡Elige un diseño!</a>
                   </div>
                 </h3>
@@ -285,7 +285,7 @@
 
     <footer class="footer text-faded text-center py-5">
       <div class="container">
-        <p class="m-0 small">Copyright &copy; As-Card 2018 </p>
+        <p class="m-0 small">Copyright &copy; As-Card 2019 </p>
       </div>
       <h3>
         <a href="https://www.facebook.com/as.card.mx/" target="_blank"><i class="fab fa-facebook"></i></a>
