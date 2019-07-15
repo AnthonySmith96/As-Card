@@ -90,7 +90,7 @@
               ¡Lo mejor de todo es que solo necesitas una!
             </p>
             <div class="intro-button mx-auto">
-              <a class="btn btn-info btn-lg btn-raised" href="about.html">Conocer más</a>
+              <a class="btn btn-info btn-lg btn-raised" href="about.php">Conocer más</a>
             </div>
           </div>
         </div>
