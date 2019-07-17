@@ -71,7 +71,7 @@
           <div class="product-item-title d-flex">
             <div class="bg-faded p-5 d-flex ml-auto rounded">
               <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Freelancer Pack</span>
+                <span class="section-heading-upper">As-Card</span>
                 <span class="section-heading-lower">Individual</span>
               </h2>
             </div>
@@ -107,26 +107,19 @@
                      <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1"> -->
                 <div class="container">
                   <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tu mismo!</a>
-                  <a class="btn btn-info btn-raised"
-                    href="Elegirdiseño.html">¡Elige
-                    un diseño!</a>
-                  <br>
-                  o puedes...
-                  <br>
+                  <br><br>
                   <input type="hidden" name="currency_code" value="MXN">
                   <input type="image" src="img/src/button.png" border="0" width="200" height="70" name="submit"
                     alt="PayPal, la forma más segura y rápida de pagar en línea.">
                   <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
                 </div>
               </form>
-
-
-
             </div>
           </div>
         </div>
       </div>
     </section>
+    
 
     <section class="page-section">
       <div class="container">
@@ -134,146 +127,24 @@
           <div class="product-item-title d-flex">
             <div class="bg-faded p-5 d-flex ml-auto rounded">
               <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Community Pack</span>
-                <span class="section-heading-lower">Colectivo</span>
-              </h2>
-            </div>
-          </div>
-          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/Paquete02.jpg" alt="">
-          <div class="product-item-description d-flex mr-auto">
-            <div class="bg-faded p-5 rounded">
-              <p class="mb-0">El paquete consiste en 3 As-Card programadas y personalizadas.
-                De esta forma puedes llevar una contigo, dejar un a en tu local u oficina y tener un respaldo seguro en
-                caso de perdida o daño, también puedes compartirlas con tus colegas, amigos o familiares.<br> <br>
-                <h3>Precio: $599.00 MXN<br><br>
-                  <p>
-                    <h6>*Envío a todo el país $100.00 MXN</h6>
-                  </p>
-                </h3>
-              </p>
-              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="B2L37SLXSA7BA">
-                <table>
-                  <tr>
-                    <td><input type="hidden" name="on0" value="Cantidad">Cantidad</td>
-                  </tr>
-                  <tr>
-                    <td><select name="os0">
-
-                        <option value="3 As-Card">3 As-Card entrega personal $599.00 MXN</option>
-
-                      </select> </td>
-                  </tr>
-                </table>
-                <div class="container">
-                  <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tu mismo!</a>
-                  <a class="btn btn-info btn-raised"
-                    href="Elegirdiseño.html">¡Elige
-                    un diseño!</a>
-                  <br>
-                  o puedes...
-                  <br>
-                  <input type="hidden" name="currency_code" value="MXN">
-                  <input type="image" src="img/src/button.png" border="0" width="200" height="70" name="submit"
-                    alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                  <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                </div>
-              </form>
-
-
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="page-section">
-      <div class="container">
-        <div class="product-item">
-          <div class="product-item-title d-flex">
-            <div class="bg-faded p-5 d-flex mr-auto rounded">
-              <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Business Pack</span>
-                <span class="section-heading-lower">Mipymes &amp; Oficinas</span>
-              </h2>
-            </div>
-          </div>
-          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/Paquete03.jpg" alt="">
-          <div class="product-item-description d-flex ml-auto">
-            <div class="bg-faded p-5 rounded">
-              <p class="mb-0">Este paquete consiste en 10 As-Card programadas y personalizadas. <br><br>
-                Pensado para los negocios y oficinas. <br> <br>
-                <h3>Precio: $1,799.00 MXN<br><br>
-                  <p>
-                    <h6>*Envío a todo el país $100.00 MXN</h6>
-                  </p>
-                </h3>
-              </p>
-              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="B2L37SLXSA7BA">
-                <table>
-                  <tr>
-                    <td><input type="hidden" name="on0" value="Cantidad">Cantidad</td>
-                  </tr>
-                  <tr>
-                    <td><select name="os0">
-
-                        <option value="10 As-Card">10 As-Card $1,799.00 MXN</option>
-                      </select> </td>
-                  </tr>
-                </table>
-                <!-- <input type="hidden" name="currency_code" value="MXN">
-                     <input type="image" src="img/src/button.png" border="0" width="200" height="70"
-                     name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                     <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1"> -->
-                <div class="container">
-                  <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tu mismo!</a>
-                  <a class="btn btn-info btn-raised"
-                    href="Elegirdiseño.html">¡Elige
-                    un diseño!</a>
-                  <br>
-                  o puedes...
-                  <br>
-                  <input type="hidden" name="currency_code" value="MXN">
-                  <input type="image" src="img/src/button.png" border="0" width="200" height="70" name="submit"
-                    alt="PayPal, la forma más segura y rápida de pagar en línea.">
-                  <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-    <section class="page-section">
-      <div class="container">
-        <div class="product-item">
-          <div class="product-item-title d-flex">
-            <div class="bg-faded p-5 d-flex ml-auto rounded">
-              <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">Custom Pack</span>
-                <span class="section-heading-lower">A tu medida</span>
+                <span class="section-heading-upper">¿Eres empresa?</span>
+                <span class="section-heading-lower">Contactanos</span>
               </h2>
             </div>
           </div>
           <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/Paquete04.jpg" alt="">
           <div class="product-item-description d-flex mr-auto">
             <div class="bg-faded p-5 rounded">
-              <p class="mb-0"> En caso de requerir una cantidad especifica puedes <a
-                  class="btn btn-info btn-lg btn-raised" href="contact.html">Contactarnos</a>
-                para una cotización. <br><br>
-                <h3>Precio: Varía en relación a la cantidad solicitada. <br><br>
-                  <p>
-                    <h6>*Envío a todo el país $100</h6>
-                  </p>
-                  <div class="container">
-                    <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tu mismo!</a>
-                    <a class="btn btn-info btn-raised" href="Elegirdiseño.html">¡Elige un diseño!</a>
-                  </div>
+              <p class="mb-0"> Si requieres de más As-Cards mándanos un correo para atenderte de manera personalizada
+                y generar una solución con paquete a tu medida. <br>
+                °Datos de contacto <br>
+                °Control de acceso <br>
+                °Boletos y control de ferias o eventos
+                °Soluciones a tu medida
+                <a
+                  class="btn btn-info btn-lg btn-raised" href="contact.php">Contactanos</a>
+                 <br><br>
+                  
                 </h3>
               </p>
             </div>
