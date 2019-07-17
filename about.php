@@ -91,11 +91,11 @@
                       (tú eliges a cuál)  y muestra un mensaje predeterminado diseñado por ti!         
                 
                 </p>
-                 <br><br>
+                 <br>
                     Así además de compartir el contacto mutuamente e iniciar una vinculación real  
                 en ese momento (sin tener que esperar a que se comuniquen con nosotros) identificarás 
-                a la persona con la que compartiste tus datos de contacto de manera rápida y fácil. <br><br>
-                  
+                a la persona con la que compartiste tus datos de contacto de manera rápida y fácil. 
+                <br><br><br>                  
                   <img class="intro-img img-fluid mb-3 mb-lg-0 rounded" src="img/muestra.jpg" alt="">
 
 
