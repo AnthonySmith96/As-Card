@@ -75,9 +75,11 @@
                   <em>Correo</em>
                 </small>
                 <br>
+                </p>
+              <p
                 <a href="mailto:as.card.mx@gmail.com?Subject=Cotización%20As-Cards">
-                  Contactar Ahora por correo</a>
-              </p>
+                  as.card.mx@gmail.com</a>
+              
               <h2>Conócenos en:</h2>
               <h3>
                  <a href="https://www.facebook.com/as.card.mx/" target="_blank"><i class="fab fa-facebook"></i></a>
@@ -85,6 +87,7 @@
                  <a href="https://www.youtube.com/channel/UCc4CtnX0hwTuHUK3UaX5MQg?view_as=subscriber" target="_blank"><i
                   class="fab fa-youtube"></i></a>
               </h3>
+            </p>
             </div>
           </div>
         </div>
