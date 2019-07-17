@@ -76,10 +76,11 @@
                 </small>
                 <br>
                 </p>
-              <div class="intro-button mx-auto">
-              <a href="mailto:as.card.mx@gmail.com?Subject=Cotización%20As-Cards">
+              <a href="mailto:as.card.mx@gmail.com">
                   as.card.mx@gmail.com</a><br>
               
+              <div class="intro-button mx-auto">
+                           
               <h2>Conócenos en:</h2><br>
               <h3>
                  <a class="btn btn-info btn-lg btn-raised" href="https://www.facebook.com/as.card.mx/" target="_blank"><i class="fab fa-facebook"></i></a>
