@@ -76,7 +76,7 @@
                 </small>
                 <br>
                 </p>
-              <p
+              <div
                 <a href="mailto:as.card.mx@gmail.com?Subject=Cotización%20As-Cards">
                   as.card.mx@gmail.com</a>
               
@@ -87,7 +87,7 @@
                  <a href="https://www.youtube.com/channel/UCc4CtnX0hwTuHUK3UaX5MQg?view_as=subscriber" target="_blank"><i
                   class="fab fa-youtube"></i></a>
               </h3>
-            </p>
+          </div>
             </div>
           </div>
         </div>
