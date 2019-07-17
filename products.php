@@ -136,11 +136,11 @@
           <div class="product-item-description d-flex mr-auto">
             <div class="bg-faded p-5 rounded">
               <p class="mb-0"> Si requieres de más As-Cards mándanos un correo para atenderte de manera personalizada
-                y generar una solución con paquete a tu medida. <br>
+                y generar una solución con paquete a tu medida. <br><br>
                 °Datos de contacto <br>
                 °Control de acceso <br>
-                °Boletos y control de ferias o eventos
-                °Soluciones a tu medida
+                °Boletos y control de ferias o eventos <br>
+                °Soluciones a tu medida <br><br>
                 <a
                   class="btn btn-info btn-lg btn-raised" href="contact.php">Contactanos</a>
                  <br><br>
