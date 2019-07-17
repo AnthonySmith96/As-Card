@@ -79,8 +79,7 @@
           <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/Paquete01.jpg" alt="">
           <div class="product-item-description d-flex mr-auto">
             <div class="bg-faded p-5 rounded">
-              <p class="mb-0">El paquete consiste en 1 As-Card programada y personalizada.
-                Ideal para darte a conocer y dejar la mejor impresión a donde vayas. <br> <br>
+              <p class="mb-0">Estás a unos pasos de tener tu As-Card programada y personalizada. <br> <br>
                 <h3>Precio: $249.00 MXN<br><br>
                   <p>
                     <h6>*Envío a todo el país $100.00 MXN</h6>
@@ -106,7 +105,7 @@
                      name="submit" alt="PayPal, la forma más segura y rápida de pagar en línea.">
                      <img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1"> -->
                 <div class="container">
-                  <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tu mismo!</a>
+                  <a class="btn btn-primary btn-raised" href="designer.html">¡Diséñala tú mismo!</a>
                   <br><br>
                   <input type="hidden" name="currency_code" value="MXN">
                   <input type="image" src="img/src/button.png" border="0" width="200" height="70" name="submit"
@@ -128,7 +127,7 @@
             <div class="bg-faded p-5 d-flex ml-auto rounded">
               <h2 class="section-heading mb-0">
                 <span class="section-heading-upper">¿Eres empresa?</span>
-                <span class="section-heading-lower">Contactanos</span>
+                <span class="section-heading-lower">Contáctanos</span>
               </h2>
             </div>
           </div>
@@ -136,13 +135,13 @@
           <div class="product-item-description d-flex mr-auto">
             <div class="bg-faded p-5 rounded">
               <p class="mb-0"> Si requieres de más As-Cards mándanos un correo para atenderte de manera personalizada
-                y generar una solución con paquete a tu medida. <br><br>
-                °Datos de contacto <br>
-                °Control de acceso <br>
-                °Boletos y control de ferias o eventos <br>
-                °Soluciones a tu medida <br><br>
+                y generar una solución con un paquete a tu medida. <br><br>
+                ° Datos de contacto. <br>
+                ° Control de acceso. <br>
+                ° Boletos y control de ferias o eventos. <br>
+                ° Préstamo de equipo. <br><br>
                 <a
-                  class="btn btn-info btn-lg btn-raised" href="contact.php">Contactanos</a>
+                  class="btn btn-info btn-lg btn-raised" href="contact.php">Contáctanos</a>
                  <br><br>
                   
                 </h3>
