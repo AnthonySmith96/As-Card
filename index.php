@@ -41,7 +41,7 @@
 
   <body>
     <h1 class="site-heading text-center text-white d-none d-lg-block">
-      <span class="site-heading-upper text-primary mb-3">Cambiando la forma de hacer Negocios</span>
+      <span class="site-heading-upper text-primary mb-3">Tan inteligente como tu negocio</span>
       <span class="site-heading-lower">As-Card</span>
     </h1>
 
@@ -81,13 +81,9 @@
               <span class="section-heading-upper">As-Card</span>
               <span class="section-heading-lower" style="font-size: 4vh">Tarjetas de presentación Inteligentes</span>
             </h2>
-            <p class="mb-3">As-Card es una tarjeta de presentación inteligente y sustentable. Funciona con la tecnología
-              NFC
-              para guardar tus datos de contacto a clientes, colegas o quien tu quieras, con el simple hecho de
-              acercarla a sus smartphones! <br>
-              Programamos tus datos (Nombre, Teléfono, Dirección, Sitio Web, Empresa, Email) en ella, para que puedas
-              utilizarla las veces que quieras. <br>
-              ¡Lo mejor de todo es que solo necesitas una!
+            <p class="mb-3">As-Card es una tarjeta de presentación amigable con el medio ambiente  ya que SOLO REQUIERES UNA 
+              para compartir tus datos millones de veces. <br>
+              ¡Comparte  tus datos de contacto de una manera inteligente, rápida y segura! <br>
             </p>
             <div class="intro-button mx-auto">
               <a class="btn btn-info btn-lg btn-raised" href="about.php">Conocer más</a>
@@ -99,7 +95,7 @@
     
     <footer class="footer text-faded text-center py-5">
       <div class="container">
-        <p class="m-0 small">Copyright &copy; As-Card 2018</p>
+        <p class="m-0 small">Copyright &copy; As-Card 2019</p>
       </div>
 
       <h3>
