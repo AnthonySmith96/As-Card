@@ -72,18 +72,19 @@
               </h2>
               <p class="mb-0">
                 <small>
-                  <em>Teléfono</em>
-                </small>
-                <br>
-                (045) 4641086427
-              </p>
-              <p class="mb-0">
-                <small>
                   <em>Correo</em>
                 </small>
                 <br>
-                <a href="mailto: as.card.mx@gmail.com"> as.card.mx@gmail.com </a>
+                <a href="mailto:as.card.mx@gmail.com?Subject=Cotización%20As-Cards">
+                  Contactar Ahora por correo</a>
               </p>
+              <h2>Conócenos en:</h2>
+              <h3>
+                 <a href="https://www.facebook.com/as.card.mx/" target="_blank"><i class="fab fa-facebook"></i></a>
+                 <a href="https://www.instagram.com/ascardmx/" target="_blank"><i class="fab fa-instagram"></i></a>
+                 <a href="https://www.youtube.com/channel/UCc4CtnX0hwTuHUK3UaX5MQg?view_as=subscriber" target="_blank"><i
+                  class="fab fa-youtube"></i></a>
+              </h3>
             </div>
           </div>
         </div>
@@ -92,7 +93,7 @@
 
     <footer class="footer text-faded text-center py-5">
       <div class="container">
-        <p class="m-0 small">Copyright &copy; As-Card 2018 </p>
+        <p class="m-0 small">Copyright &copy; As-Card 2019 </p>
       </div>
       <h3>
         <a href="https://www.facebook.com/as.card.mx/" target="_blank"><i class="fab fa-facebook"></i></a>
