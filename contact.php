@@ -68,8 +68,9 @@
             <div class="cta-inner text-center rounded">
               <h2 class="section-heading mb-5">
                 <span class="section-heading-upper">Trabajamos para ti</span>
-                <span class="section-heading-lower">Contáctanos en:</span>
               </h2>
+              <h2>Contáctanos en:</h2><br>
+              
               <p class="mb-0">
                 <small>
                   <em>Correo</em>
