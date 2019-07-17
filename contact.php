@@ -72,15 +72,15 @@
               </h2>
               <p class="mb-0">
                 <small>
-                  <em>Correo</em>
+                  <em>Correo</em><br>
                 </small>
                 <br>
                 </p>
               <div class="intro-button mx-auto">
-              <a class="btn btn-info btn-lg btn-raised" href="mailto:as.card.mx@gmail.com?Subject=Cotización%20As-Cards">
-                  as.card.mx@gmail.com</a>
+              <a href="mailto:as.card.mx@gmail.com?Subject=Cotización%20As-Cards">
+                  as.card.mx@gmail.com</a><br>
               
-              <h2>Conócenos en:</h2>
+              <h2>Conócenos en:</h2><br>
               <h3>
                  <a class="btn btn-info btn-lg btn-raised" href="https://www.facebook.com/as.card.mx/" target="_blank"><i class="fab fa-facebook"></i></a>
                  <a class="btn btn-info btn-lg btn-raised" href="https://www.instagram.com/ascardmx/" target="_blank"><i class="fab fa-instagram"></i></a>
