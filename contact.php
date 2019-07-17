@@ -72,9 +72,9 @@
               </h2>
               <p class="mb-0">
                 <small>
-                  <em>Correo</em><br>
+                  <em>Correo</em>
                 </small>
-                <br>
+              
                 </p>
               <a href="mailto:as.card.mx@gmail.com">
                   as.card.mx@gmail.com</a><br>
