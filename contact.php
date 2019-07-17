@@ -76,17 +76,18 @@
                 </small>
                 <br>
                 </p>
-              <div
-                <a href="mailto:as.card.mx@gmail.com?Subject=Cotización%20As-Cards">
+              <div class="intro-button mx-auto">
+              <a class="btn btn-info btn-lg btn-raised" href="mailto:as.card.mx@gmail.com?Subject=Cotización%20As-Cards">
                   as.card.mx@gmail.com</a>
               
               <h2>Conócenos en:</h2>
               <h3>
-                 <a href="https://www.facebook.com/as.card.mx/" target="_blank"><i class="fab fa-facebook"></i></a>
-                 <a href="https://www.instagram.com/ascardmx/" target="_blank"><i class="fab fa-instagram"></i></a>
-                 <a href="https://www.youtube.com/channel/UCc4CtnX0hwTuHUK3UaX5MQg?view_as=subscriber" target="_blank"><i
+                 <a class="btn btn-info btn-lg btn-raised" href="https://www.facebook.com/as.card.mx/" target="_blank"><i class="fab fa-facebook"></i></a>
+                 <a class="btn btn-info btn-lg btn-raised" href="https://www.instagram.com/ascardmx/" target="_blank"><i class="fab fa-instagram"></i></a>
+                 <a class="btn btn-info btn-lg btn-raised" href="https://www.youtube.com/channel/UCc4CtnX0hwTuHUK3UaX5MQg?view_as=subscriber" target="_blank"><i
                   class="fab fa-youtube"></i></a>
               </h3>
+              </div>
           </div>
             </div>
           </div>
