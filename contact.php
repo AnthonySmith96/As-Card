@@ -64,15 +64,9 @@
     
 
     <section class="page-section cta">
-      <div class="container">
-        <div class="row">
-          <div class="col-xl-9 mx-auto">
-            <div class="cta-inner text-center rounded">
-              <h2 class="section-heading mb-5">
-                <span class="section-heading-upper">Trabajamos para ti</span>
-              </h2>
-              
-              <div>
+      
+      
+      <div>
       <h2>Contáctanos en:</h2> <br><br>
 
               <form name="contactform" method="post" action="send_form_email.php">
@@ -125,6 +119,17 @@
                     </table>
             </form> <br><br>
     </div>
+      
+      
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-9 mx-auto">
+            <div class="cta-inner text-center rounded">
+              <h2 class="section-heading mb-5">
+                <span class="section-heading-upper">Trabajamos para ti</span>
+              </h2>
+              
+              
 
 
               <div class="intro-button mx-auto">
