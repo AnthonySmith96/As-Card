@@ -54,14 +54,14 @@
             </div>
         </nav>
         <section class="page-section cta">
-            <div>
-                <h2>Contáctanos en:</h2> <br><br>
+            <div class="container">
+                <h2 class="text-center">Contáctanos en:</h2> <br><br>
                 <div class="form-group">
                     <form name="contactform" method="post" action="send_form_email.php">
                         <table width="450px">
                             <tr>
                                 <td valign="top">
-                                    <label for="first_name">Nombre de la empresa *</label>
+                                    <label class="bmd-label-floating" for="first_name">Nombre de la empresa *</label>
                                 </td>
                                 <td valign="top">
                                     <input  type="text" name="first_name" maxlength="50" size="30">
@@ -69,7 +69,7 @@
                             </tr>
                             <tr>
                                 <td valign="top">
-                                    <label for="last_name">Nombre de contacto *</label>
+                                    <label class="bmd-label-floating" for="last_name">Nombre de contacto *</label>
                                 </td>
                                 <td valign="top">
                                     <input  type="text" name="last_name" maxlength="50" size="30">
@@ -77,7 +77,7 @@
                             </tr>
                             <tr>
                                 <td valign="top">
-                                    <label for="email">Correo *</label>
+                                    <label class="bmd-label-floating" for="email">Correo *</label>
                                 </td>
                                 <td valign="top">
                                     <input  type="text" name="email" maxlength="80" size="30">
@@ -105,7 +105,7 @@
                                 </td>
                             </tr>
                         </table>
-                    </form> <br><br>
+                    </form>
                 </div>
             </div>
             <div class="container">
