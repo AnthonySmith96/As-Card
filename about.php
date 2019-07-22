@@ -30,7 +30,7 @@
   <body>
 
     <h1 class="site-heading text-center text-white d-none d-lg-block">
-      <span class="site-heading-upper text-primary mb-3">Cambiando la forma de hacer Negocios</span>
+      <span class="site-heading-upper text-primary mb-3">Tan inteligente como tu negocio</span>
       <span class="site-heading-lower">As-Card</span>
     </h1>
 
@@ -67,7 +67,7 @@
       <div class="container">
         <div class="contenedor embed-responsive-16by9 embed-responsive">
                 
-          <iframe src="https://www.youtube.com/embed/HgYmGE01gww?autoplay=1" frameborder="0" 
+          <iframe src="https://www.youtube.com/embed/EM0MVcgXR3M?autoplay=1" frameborder="0" 
            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
           </iframe>
           
@@ -77,39 +77,26 @@
             <div class="col-xl-9 col-lg-10 mx-auto">
               <div class="bg-faded rounded p-5">
                 <h2 class="section-heading mb-4">
-                  <span class="section-heading-upper">Tecnología para negocios</span>
                   <span class="section-heading-lower">As-Card</span>
                 </h2>
                 <p>
-                  <h4>As-Card es una tarjeta de presentación inteligente que transmite al instante los datos 
-                    de contacto a smartphones sin generar desechos.</h4> <br>
-                  Si has manejado o recibido tarjetas de presentación ¡As-Card es para ti! <br>
+                  <h4>As-Card es una tarjeta de presentación inteligente que transmite al instante los datos de contacto 
+                    a smartphones sin generar desechos.</h4> <br>
                   
-                  Con As-Card eliminas: <br><br>
+                  ¿Cómo lo hace? <br><br>
+               
+                    <p>Funciona con tecnología NFC que le permite comunicarse con los smartphones además de contar con un 
+                      código QR que le permite ser leída por los teléfonos que todavía no cuentan con lector NFC. <br>
+                      ¡La ventaja de usar el código QR de tu As-Card es que éste redirecciona a Whatsapp o al correo electrónico 
+                      (tú eliges a cuál)  y muestra un mensaje predeterminado diseñado por ti!         
                 
-                <li type="circle"><b>Desechos.</b></li>
-                  <p>Al menos un millar de tarjetas de prsentación generan 1.5Kg de desechos como (Papel, Carton, Plástico y tintas).</p> <br>
-                <li type="circle"><b>Pérdida del contacto.</b></li>
-                  <p>AL menos el 70% de las personas qpierden las tarjetas de presentación.</p> <br>
-                <li type="circle"><b>Tiempo de contacto.</b></li>
-                  <p>El contacto se transfiere al instante con el simple hecho de acercar tu As-Card al dispositivo de los demás.</p> <br>
-                <li type="circle"><b>Datos incompletos.</b></li>
-                  <p>As-Card puede almacenar datos como: (Nombre, Teléfono, Correo, Empresa o institución, Página Web) dandole a nuestros clientes más canales de contacto.</p> <br>
-                <li type="circle"><b>Integridad de datos.</b></li>
-                  <p>Tú decides como te van a guardar tus clientes y que datos pueden ver.</p>
-                
-                  <br><br>
-                  <img class="intro-img img-fluid mb-3 mb-lg-0 rounded" style="align:center"
-                    src="img/45483861_722772301426263_1362384216364417024_n (1).jpg" alt="">
-                  <br><br>
-                  As-Card integra la tecnología NFC y Qr para poder compartir tus datos a las demás personas. <br><br>
-                  <h4>¿No tienes NFC?</h4>
-                  Nosotros enviamos tu As-Card con los datos previamente programados. <br>
-                  Incluimos el diseño de una tarjeta convencional y elegante combinada con el poder de nuestra tecnología 
-                  implementando un <i>código Qr</i> el cual mandará a los clientes a una conversación directa a tu WhatsApp,
-                  aunque tus clientes no estén agregados en tus contactos. También podemos madarlos a una página web,
-                  de esta forma se asegura el contacto.<br><br>
-                  <img class="intro-img img-fluid mb-3 mb-lg-0 rounded" src="img/qr.jpg" alt="">
+                </p>
+                 <br>
+                    Así además de compartir el contacto mutuamente e iniciar una vinculación real  
+                en ese momento (sin tener que esperar a que se comuniquen con nosotros) identificarás 
+                a la persona con la que compartiste tus datos de contacto de manera rápida y fácil. 
+                <br><br><br>                  
+                  <img class="intro-img img-fluid mb-3 mb-lg-0 rounded" src="img/muestra.jpg" alt="">
 
 
                 </p>
@@ -122,7 +109,7 @@
 
     <footer class="footer text-faded text-center py-5">
       <div class="container">
-        <p class="m-0 small">Copyright &copy; As-Card 2018 </p>
+        <p class="m-0 small">Copyright &copy; As-Card 2019 </p>
       </div>
       <h3>
         <a href="https://www.facebook.com/as.card.mx/" target="_blank"><i class="fab fa-facebook"></i></a>
