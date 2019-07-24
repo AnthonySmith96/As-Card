@@ -77,7 +77,7 @@
                 <h2 class="text-center">Contáctanos en:</h2> <br><br>
                 <div class="form-group; table-responsive">
                     <form name="contactform" method="post" action="send_form_email.php">
-                        <table width="75%">
+                        <table width="100%">
                             <tr>
                                 <td valign="top">
                                     <input type="search" name="first_name" class="form-control ds-input" id="search-input" placeholder="Empresa..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;>
@@ -100,7 +100,7 @@
                             </tr> <br>
                             <tr>>
                                 <td valign="top">
-                                    <textarea  placeholder="Mensaje..." name="message" maxlength="1000" cols="25" rows="6"></textarea>
+                                    <textarea  name="message" class="form-control ds-input" id="search-input" placeholder="Mensaje..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;></textarea>
                                 </td>
                             </tr>
                             <tr>
