@@ -80,40 +80,25 @@
                         <table width="100%">
                             <tr>
                                 <td valign="top">
-                                    <label>Empresa: *</label>
-                                </td>
-                                <td valign="top">
                                     <input type="search" name="first_name" class="form-control ds-input" id="search-input" placeholder="Empresa..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;>
                                 </td>
                             </tr> <br>
                             <tr>
-                                <td valign="top">
-                                    <label>Nombre de contacto: *</label>
-                                </td>
                                 <td valign="top">
                                     <input type="search" name="last_name" class="form-control ds-input" id="search-input" placeholder="Nombre de contacto..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;>
                                 </td>
                             </tr> <br>
                             <tr>
                                 <td valign="top">
-                                    <label>Correo: *</label>
-                                </td>
-                                <td valign="top">
                                     <input type="text" name="email" class="form-control ds-input" id="search-input" placeholder="Correo..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;>
                                 </td>
                             </tr> <br>
                             <tr>
                                 <td valign="top">
-                                    <label>Teléfono: </label>
-                                </td>
-                                <td valign="top">
                                     <input  type="text" name="telephone" class="form-control ds-input" id="search-input" placeholder="Teléfono..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;>
                                 </td>
                             </tr> <br>
                             <tr>
-                                <td valign="top">
-                                    <label>Mensaje: *</label>
-                                </td>
                                  <td valign="top">
                                   <textarea  name="message" maxlength="1000" cols="25" rows="6" placeholder="Mensaje..." class="form-control ds-input" id="search-input"></textarea>
                                  </td>
