@@ -98,7 +98,7 @@
                                     <input  type="text" name="telephone" class="form-control ds-input" id="search-input" placeholder="Teléfono..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;>
                                 </td>
                             </tr> <br>
-                            <tr>>
+                            <tr>
                                 <td valign="top">
                                     <textarea  name="message" class="form-control ds-input" id="search-input" placeholder="Mensaje..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;></textarea>
                                 </td>
