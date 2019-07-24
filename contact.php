@@ -100,10 +100,7 @@
                             </tr> <br>
                             <tr>
                                  <td valign="top">
-                                  <label for="message">Mensaje *</label>
-                                 </td>
-                                 <td valign="top">
-                                  <textarea  name="message" maxlength="1000" cols="25" rows="6"></textarea>
+                                  <textarea  name="message" maxlength="1000" cols="25" rows="6" placeholder="Mensaje..." aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;></textarea>
                                  </td>
                             </tr>
                             <tr>
