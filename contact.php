@@ -80,42 +80,27 @@
                         <table width="50%">
                             <tr>
                                 <td valign="top">
-                                    <label for="first_name">Empresa: *</label>
-                                </td>
-                                <td valign="top">
-                                    <input type="search" class="form-control ds-input" id="search-input" placeholder="Empresa..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;>
+                                    <input type="search" name="first_name" class="form-control ds-input" id="search-input" placeholder="Empresa..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;>
                                 </td>
                             </tr>
                             <tr>
                                 <td valign="top">
-                                    <label for="last_name">Nombre de contacto: *</label>
-                                </td>
-                                <td valign="top">
-                                    <input  type="text" name="last_name" maxlength="50" size="30">
+                                    <input type="search" name="last_name" class="form-control ds-input" id="search-input" placeholder="Nombre de contacto..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;>
                                 </td>
                             </tr>
                             <tr>
                                 <td valign="top">
-                                    <label for="email">Correo: *</label>
-                                </td>
-                                <td valign="top">
-                                    <input  type="text" name="email" maxlength="80" size="30">
+                                    <input type="text" name="email" class="form-control ds-input" id="search-input" placeholder="Empresa..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;>
                                 </td>
                             </tr>
                             <tr>
                                 <td valign="top">
-                                    <label for="telephone">Telefono de contacto: (Opcional)</label>
-                                </td>
-                                <td valign="top">
-                                    <input  type="text" name="telephone" maxlength="30" size="30">
+                                    <input  type="text" name="telephone" class="form-control ds-input" id="search-input" placeholder="Empresa..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;>
                                 </td>
                             </tr>
-                            <tr>
+                            <tr>>
                                 <td valign="top">
-                                    <label for="message">Mensaje: *</label>
-                                </td>
-                                <td valign="top">
-                                    <textarea  name="message" maxlength="1000" cols="25" rows="6"></textarea>
+                                    <textarea  placeholder="Mensaje..." name="message" maxlength="1000" cols="25" rows="6"></textarea>
                                 </td>
                             </tr>
                             <tr>
