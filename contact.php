@@ -71,11 +71,11 @@
                                                                                                                                                                                      class="fab fa-youtube"></i></a>
                                 </h3>
                             </div>
-                        </div>
+                        </div> <br><br>
                         
                        
-                <h2 class="text-center">Contáctanos en:</h2> <br><br>
-                <div class="form-group; table-responsive">
+                <h2 class="text-center">Contáctanos en:</h2> <br>
+                <div class="form-group; table-responsive; table-dark">
                     <form name="contactform" method="post" action="send_form_email.php">
                         <table width="100%">
                             <tr>
