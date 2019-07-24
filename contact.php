@@ -53,61 +53,10 @@
                 </div>
             </div>
         </nav>
+                
         <section class="page-section cta">
             <div class="container">
-                <h2 class="text-center">Contáctanos en:</h2> <br><br>
-                <div class="form-group">
-                    <form name="contactform" method="post" action="send_form_email.php">
-                        <table width="450px">
-                            <tr>
-                                <td valign="top">
-                                    <label class="bmd-label-floating" for="first_name">Nombre de la empresa *</label>
-                                </td>
-                                <td valign="top">
-                                    <input  type="text" name="first_name" maxlength="50" size="30">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td valign="top">
-                                    <label class="bmd-label-floating" for="last_name">Nombre de contacto *</label>
-                                </td>
-                                <td valign="top">
-                                    <input  type="text" name="last_name" maxlength="50" size="30">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td valign="top">
-                                    <label class="bmd-label-floating" for="email">Correo *</label>
-                                </td>
-                                <td valign="top">
-                                    <input  type="text" name="email" maxlength="80" size="30">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td valign="top">
-                                    <label for="telephone">Telefono de contacto (Opcional)</label>
-                                </td>
-                                <td valign="top">
-                                    <input  type="text" name="telephone" maxlength="30" size="30">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td valign="top">
-                                    <label for="message">Mensaje *</label>
-                                </td>
-                                <td valign="top">
-                                    <textarea  name="message" maxlength="1000" cols="25" rows="6"></textarea>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td colspan="2" style="text-align:center">
-                                    <input type="submit" value="Enviar">   <a href="http://as-card.com./email_form.php"></a>
-                                </td>
-                            </tr>
-                        </table>
-                    </form>
-                </div>
-            </div>
+                
             <div class="container">
                 <div class="row">
                     <div class="col-xl-9 mx-auto">
@@ -130,6 +79,65 @@
             </div>
             </div>
         </section>
+        
+        <div class="table-responsive">
+                <h2 class="text-center">Contáctanos en:</h2> <br><br>
+                <div class="form-group">
+                    <form name="contactform" method="post" action="send_form_email.php">
+                        <table width="450px">
+                            <tr>
+                                <td valign="top">
+                                    <label for="first_name">Nombre de la empresa *</label>
+                                </td>
+                                <td valign="top">
+                                    <input  type="text" name="first_name" maxlength="50" size="30">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top">
+                                    <label for="last_name">Nombre de contacto *</label>
+                                </td>
+                                <td valign="top">
+                                    <input  type="text" name="last_name" maxlength="50" size="30">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top">
+                                    <label for="email">Correo *</label>
+                                </td>
+                                <td valign="top">
+                                    <input  type="text" name="email" maxlength="80" size="30">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top">
+                                    <label for="telephone">Telefono de contacto (Opcional)</label>
+                                </td>
+                                <td valign="top">
+                                    <input  type="text" name="telephone" maxlength="30" size="30">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="top">
+                                    <label for="message">Mensaje *</label>
+                                </td>
+                                <td valign="top">
+                                    <textarea  name="message" maxlength="1000" cols="25" rows="6"></textarea>
+                                </td>
+                            </tr>
+                            <tr>
+                                <div class="intro-button mx-auto">
+                                <td colspan="2" style="text-align:center">
+                                    <input type="submit" value="Enviar">   <a class="btn btn-info btn-lg btn-raised" href="http://as-card.com./email_form.php"></a>
+                                </td>
+                                </div>
+                            </tr>
+                        </table>
+                    </form>
+                </div>
+            </div>
+            </div>
+            </div>
         <footer class="footer text-faded text-center py-5">
             <div class="container">
                 <p class="m-0 small">Copyright &copy; As-Card 2019 </p>
