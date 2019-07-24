@@ -1277,8 +1277,7 @@ pre {
     outline: 0;
     box-shadow: none, 0 0 0 0.2rem rgba(0, 150, 136, 0.25); }
   .form-control::placeholder, .custom-file-control::placeholder {
-    color: #6c757d;
-    opacity: 1; }
+    color: #000000; }
   .form-control:disabled, .custom-file-control:disabled, .form-control[readonly], [readonly].custom-file-control {
     background-color: #e9ecef;
     opacity: 1; }
