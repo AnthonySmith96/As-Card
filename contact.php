@@ -75,7 +75,7 @@
                         
                        
                 <h2 class="text-center">Contáctanos en:</h2> <br>
-                <div class="form-group; table-responsive; table-striped">
+                <div class="form-group; table-responsive">
                     <form name="contactform" method="post" action="send_form_email.php">
                         <table width="100%">
                             <tr>
