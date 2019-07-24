@@ -99,9 +99,12 @@
                                 </td>
                             </tr> <br>
                             <tr>
-                                <td valign="top">
-                                    <textarea  name="message" class="form-control ds-input" id="search-input" placeholder="Mensaje..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;></textarea>
-                                </td>
+                                 <td valign="top">
+                                  <label for="message">Mensaje *</label>
+                                 </td>
+                                 <td valign="top">
+                                  <textarea  name="message" maxlength="1000" cols="25" rows="6"></textarea>
+                                 </td>
                             </tr>
                             <tr>
                                 <div class="intro-button mx-auto">
