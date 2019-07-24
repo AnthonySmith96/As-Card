@@ -80,6 +80,9 @@
                         <table width="100%">
                             <tr>
                                 <td valign="top">
+                                    <label>Empresa</label>
+                                </td>
+                                <td valign="top">
                                     <input type="search" name="first_name" class="form-control ds-input" id="search-input" placeholder="Empresa..." aria-label="Search for..." autocomplete="off" data-docs-version="4.3" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-0" dir="auto" style="position: relative; vertical-align: top;>
                                 </td>
                             </tr> <br>
