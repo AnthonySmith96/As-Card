@@ -1,9 +1,5 @@
 <?php
 
-<div class="api-buttons col-md-7">
-				  	<a href="adquirir.html" id="print-button" class="btn btn-raised btn-secondary">Regresar</a>
-</div>
-
 if(isset($_POST['email'])) {
 
     //
@@ -25,6 +21,9 @@ if(isset($_POST['email'])) {
         echo "Porfavor corrija estos errores e inténtelo de nuevo.<br /><br />";
         die();
     }
+	<div class="api-buttons col-md-7">
+				  	<a href="adquirir.html" id="print-button" class="btn btn-raised btn-secondary">Regresar</a>
+</div>
 
     // Se valida que los campos del formulairo estén llenos
 
