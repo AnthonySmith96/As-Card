@@ -139,12 +139,5 @@ Gracias! Nos pondremos en contacto contigo a la brevedad.
 
 }
 
-$fp=fopen("https://as-card.com/contact.php","r");
-while (!feof($fp)) {
-$buffer.=fgets($fp,4096);
-}
-fclose($fp);
-echo $buffer;
-
 ?>
 
