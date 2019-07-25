@@ -1,4 +1,9 @@
 <?php
+
+<div class="api-buttons col-md-7">
+				  	<a href="adquirir.html" id="print-button" class="btn btn-raised btn-secondary">Regresar</a>
+</div>
+
 if(isset($_POST['email'])) {
 
     //
