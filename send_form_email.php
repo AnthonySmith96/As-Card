@@ -142,7 +142,7 @@ Gracias! Nos pondremos en contacto contigo a la brevedad.
 ?>
 <html>
 <head>
-<meta http-equiv="refresh" content="2;url=http://localhost/formulario.html">
+<meta http-equiv="refresh" content="2;url=https://as-card.com/contact.php">
 </head>
 <body>
 <p align="center">El registro se insertó correctamente</p>
