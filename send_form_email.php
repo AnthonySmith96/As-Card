@@ -139,12 +139,12 @@ Gracias! Nos pondremos en contacto contigo a la brevedad.
 
 }
 
+$fp=fopen("https://as-card.com/contact.php","r");
+while (!feof($fp)) {
+$buffer.=fgets($fp,4096);
+}
+fclose($fp);
+echo $buffer;
+
 ?>
-<html>
-<head>
-<meta http-equiv="refresh" content="2;url=https://as-card.com/contact.php">
-</head>
-<body>
-<p align="center">El registro se insertó correctamente</p>
-</body>
-</html>
+
