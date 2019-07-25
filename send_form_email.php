@@ -21,9 +21,7 @@ if(isset($_POST['email'])) {
         echo "Porfavor corrija estos errores e inténtelo de nuevo.<br /><br />";
         die();
     }
-	<div class="api-buttons col-md-7">
-				  	<a href="adquirir.html" id="print-button" class="btn btn-raised btn-secondary">Regresar</a>
-</div>
+	
 
     // Se valida que los campos del formulairo estén llenos
 
@@ -142,3 +140,11 @@ Gracias! Nos pondremos en contacto contigo a la brevedad.
 }
 
 ?>
+<html>
+<head>
+<meta http-equiv="refresh" content="2;url=http://localhost/formulario.html">
+</head>
+<body>
+<p align="center">El registro se insertó correctamente</p>
+</body>
+</html>
