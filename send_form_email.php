@@ -3,7 +3,7 @@ if(isset($_POST['email'])) {
 
     //
 
-    $email_to = "email@gmail.com";
+    $email_to = "as.card.mx@gmail.com";
 
     $email_subject = "Contacto desde Web";
 
