@@ -87,3 +87,5 @@ if(isset($_POST['email'])) {
     echo 'alert("Algunos campos parecen estar vacíos, inténtalo de nuevo");';
     echo '</script>';
 ?>
+
+<?php } ?>
