@@ -6,7 +6,7 @@ if(isset($_POST['email'])) {
   function died($error) {
     // mensajes de error
     echo '<script language="javascript">';
-    echo 'alert("Ocurrió un error con sus datos, inténtelo de nuevo.")';
+    echo 'alert("Ocurrió un error con sus datos, inténtelo de nuevo.");';
     echo '</script>';
     die();
   }
@@ -19,7 +19,7 @@ if(isset($_POST['email'])) {
        !isset($_POST['message'])) {
 
         echo '<script language="javascript">';
-        echo 'alert("Algunos campos parecen estar vacíos, inténtalo de nuevo")';
+        echo 'alert("Algunos campos parecen estar vacíos, inténtalo de nuevo");';
         echo '</script>';
         die();
     }
