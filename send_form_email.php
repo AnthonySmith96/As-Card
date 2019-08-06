@@ -31,7 +31,7 @@ if(isset($_POST['email'])) {
   $email_from = $_POST['email']; // requerido
   $telephone = $_POST['telephone']; // no requerido
   $message = $_POST['message']; // requerido
-
+  $error_message = "";
 
   //En esta parte se verifica que la dirección de correo sea válida
 
