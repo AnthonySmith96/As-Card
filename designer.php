@@ -173,9 +173,9 @@
 				</div>
 
 				<div class="fpd-product" title="AsCard Vertical" data-thumbnail="img/vertical-card/preview.png">
-					<img src="img/vertical-card/front/base.png" title="Base" data-parameters='{"x": 450, "y": 250, "colors": "#ededed", "price": 124.5}' />
+					<img src="img/vertical-card/front/base.png" title="Base" data-parameters='{"x": 405, "y": 225, "colors": "#ededed", "price": 124.5}' />
 					<div class="fpd-product" title="AsCard Vertical Trasera" data-thumbnail="img/vertical-card/preview.png">
-					<img src="img/vertical-card/back/base.png" title="Base" data-parameters='{"x": 450, "y": 250, "colors": "#ededed", "price": 125.5}' />
+					<img src="img/vertical-card/back/base.png" title="Base" data-parameters='{"x": 405, "y": 225, "colors": "#ededed", "price": 125.5}' />
 					</div>
 				</div>
 
