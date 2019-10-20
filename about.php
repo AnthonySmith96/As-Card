@@ -6,8 +6,8 @@
     <meta name="author" content="">
 
     <title>As-Card</title>
-    <link rel="shortcut icon" href="img/favicon.ico">
-    <link rel="icon" type="image/gif" href="img/animated_favicon1.gif">
+    <link rel="shortcut icon" href="img/NuevoLogoPTarjetaN.ico">
+    <link rel="icon" type="image/gif" href="img/NuevoLogoPTarjetaN.ico">
 
     <!--Icons css-->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css"

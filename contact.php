@@ -6,8 +6,8 @@
         <meta name="description" content="">
         <meta name="author" content="">
         <title>As-Card</title>
-        <link rel="shortcut icon" href="img/favicon.ico">
-        <link rel="icon" type="image/gif" href="img/animated_favicon1.gif">
+        <link rel="shortcut icon" href="img/NuevoLogoPTarjetaN.ico">
+        <link rel="icon" type="image/gif" href="img/NuevoLogoPTarjetaN.ico">
 
         <!--Icons css-->
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -126,7 +126,9 @@
         
         <footer class="footer text-faded text-center py-5">
             <div class="container">
-                <p class="m-0 small">Copyright &copy; As-Card 2019 </p>
+            <p class="mbr-text mbr-fonts-style display-7">
+                © Copyright 2019 AsCompany innovation and dev team - Todos los derechos reservados
+              </p>
             </div>
             <h3>
                 <a href="https://www.facebook.com/as.card.mx/" target="_blank"><i class="fab fa-facebook"></i></a>
