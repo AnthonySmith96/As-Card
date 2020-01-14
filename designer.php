@@ -281,9 +281,6 @@
 				  	<label class="checkbox inline"><input type="checkbox" id="colorizable" />Colorear selección</label>
 			  	</div>
 
-		  	</div>
-		  	<button class="btn btn-raised btn-secondary" id="save-image-php">Guardar imágen con PHP</button>
-		  	<button class="btn btn-raised btn-info" id="send-image-mail-php">Envíanos tu diseño por mail</button>
-    	</div>
+		  	
     </body>
 </html>
