@@ -271,10 +271,10 @@
 		  	<br />
 		  	<div class="row">
 			  	<div class="api-buttons col-md-7">
-				  	<a href="#" id="print-button" class="btn btn-raised btn-secondary">Imprimir</a>
+				  	<!-- <a href="#" id="print-button" class="btn btn-raised btn-secondary">Imprimir</a> -->
 				  	<a href="#" id="image-button" class="btn btn-raised btn-info">Descargar imágen</a>
 				  	<a href="#" id="pdf-button" class="btn btn-raised btn-danger">Descargar PDF</a>
-				  	<a href="#" id="checkout-button" class="btn btn-raised btn-success">Comprar</a>
+				  	<a href="https://as-card.com/buy.html" id="checkout-button" class="btn btn-raised btn-success">Comprar</a>
 			  	</div>
 			  	<div class="col-md-2">
 			  		<a href="#" id="upload-button" class="btn btn-raised btn-warning">¡Sube tu propio diseño!</a>
